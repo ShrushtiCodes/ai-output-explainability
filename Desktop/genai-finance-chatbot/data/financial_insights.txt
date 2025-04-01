@@ -1,0 +1,6 @@
+1. Inflation and interest rates have a direct impact on investment strategies and consumer spending. Central banks often raise interest rates to combat inflation.
+2. Diversifying portfolios across asset classes like equities, bonds, and commodities helps reduce risk exposure.
+3. Algorithmic trading has gained prominence with the use of machine learning and historical financial data to automate decision-making.
+4. ESG (Environmental, Social, Governance) investing is becoming a major factor in evaluating long-term company performance.
+5. Cryptocurrency volatility is driven by speculative interest, regulatory developments, and macroeconomic trends.
+6. Real-time financial fraud detection uses anomaly detection algorithms to identify suspicious transaction patterns.
